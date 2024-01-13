@@ -14,6 +14,7 @@
 
 ## Tech Stack
 
+- **Framework:** REACT 
 - **Storage:** AWS S3
 - **Hosting:** AWS Amplify
 - **Database:** AWS DynamoDB
